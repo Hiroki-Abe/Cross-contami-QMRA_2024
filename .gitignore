@@ -1,0 +1,6 @@
+# Fitted Stan models and simulation results are too large for GitHub (90–410 MB each)
+*.pkl
+*.npy
+
+.ipynb_checkpoints/
+.DS_Store
